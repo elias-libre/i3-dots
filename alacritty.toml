@@ -1,0 +1,9 @@
+[font]
+size = 13.5
+
+normal = { family = "JetBrains Mono" }
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/gruvbox_light.toml"
+]
